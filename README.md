@@ -62,11 +62,11 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 ### Sales
 
-![Sales](Images/Sales page.png)
+![Sales](Images/Sales.png)
 
 ### Menu
 
-![Menu](Images/Menu Page.png)
+![Menu](Images/Menu.png)
 
 ### Customers
 
@@ -74,12 +74,11 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 ### Time
 
-![Time](Images/Time Page.png)
+![Time](Images/Time.png)
 
 ### Locations
 
-![Locations](Images/Location Page
-.png)
+![Locations](Images/Location.png)
 
 ---
 
