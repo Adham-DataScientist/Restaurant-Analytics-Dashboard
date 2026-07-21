@@ -78,7 +78,7 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 ### Locations
 
-![Locations](Images/Location.png)
+![Locations](Images/location.png)
 
 ---
 
