@@ -62,11 +62,11 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 ### Sales
 
-![Sales](Images/Sales.png)
+![Sales](Images/Sales page.png)
 
 ### Menu
 
-![Menu](Images/Menu.png)
+![Menu](Images/Menu Page.png)
 
 ### Customers
 
@@ -74,11 +74,12 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 ### Time
 
-![Time](Images/Time.png)
+![Time](Images/Time Page.png)
 
 ### Locations
 
-![Locations](Images/Locations.png)
+![Locations](Images/Location Page
+.png)
 
 ---
 
@@ -88,8 +89,6 @@ This project is an interactive Restaurant Analytics Dashboard developed using **
 
 Data Analyst | Power BI Developer
 
-LinkedIn:
-(ضع رابط حسابك)
+LinkedIn: https://www.linkedin.com/in/adham-mahmoud-a680032a9/
 
 GitHub:
-(سيظهر تلقائيًا بعد رفع المشروع)
