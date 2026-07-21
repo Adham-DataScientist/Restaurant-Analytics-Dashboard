@@ -1,5 +1,7 @@
 # 🍽️ Restaurant Analytics Dashboard
 
+![Welcome](Images/Welcome.png)
+
 ## 📌 Project Overview
 
 This project is an interactive Restaurant Analytics Dashboard developed using **Power BI** to help restaurant managers monitor sales performance, customer behavior, menu performance, time trends, and location insights.
