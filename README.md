@@ -1,6 +1,15 @@
 # 🍽️ Restaurant Analytics Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+![DAX](https://img.shields.io/badge/DAX-02569B)
+
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
 ![Welcome](Images/Welcome.png)
+
 
 ## 📌 Project Overview
 
